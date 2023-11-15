@@ -1,3 +1,5 @@
+![Logo](launchpad-title-logo.png)
+
 # launchpad.hpp
 A simple, RtMidi-Based, header only C++ library for interacting with the Novation Launchpad (Tested on mk2 only). Also contains general reverse engineered information about the Launchpad.
 
